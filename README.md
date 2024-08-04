@@ -1,11 +1,17 @@
 Name:HARSHINI P
+
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS4093
+
 Domain:CYBERSECURITY & ETHICAL HACKING
+
 Duration:July to August 2024
+
 Mentor:NEELA SANTHOSH KUMAR
 
 Overview of the Project:PASSWORD STRENGTH CHECKER
+
 OBJECTIVE:
 The provided Java code is a simple password strength checker. Here's an overview of its functionality:
 
