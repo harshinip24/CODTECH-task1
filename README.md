@@ -41,3 +41,7 @@ KEY ACTIVITIES:
    - It calls checkPasswordStrength to determine the password's strength.
    - The result is printed to the console.
    - Finally, the scanner is closed to free resources.
+
+OUTPUT:
+![image](https://github.com/user-attachments/assets/b6f716d7-52f1-437a-9771-23d322de6b7e)
+
